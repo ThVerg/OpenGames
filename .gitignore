@@ -1,0 +1,26 @@
+# .NET build output
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+# .NET local tool cache (manifest at .config/dotnet-tools.json is committed)
+.dotnet/
+
+# MonoGame intermediate content
+*.mgstats
+
+# IDE / editor
+.vs/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

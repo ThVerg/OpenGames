@@ -1,0 +1,19 @@
+# OpenGames
+
+A collection of open-source games built with Claude + MonoGame. Each game lives in its own folder with its own `README.md` covering controls, how to build, and how it works.
+
+## Games
+
+| Game | Stack | Status | Description |
+| --- | --- | --- | --- |
+| [CrimsonVoid](./CrimsonVoid) | C# / [MonoGame](https://www.monogame.net) | Playable | Top-down arena bullet-hell in deep space. 10 levels, 9 unique minibosses + a final boss, an upgrade-pick draft system, and procedurally generated visuals (no asset files). |
+
+More to follow.
+
+## Building
+
+Each subdirectory is a standalone project. Open the folder and follow that game's `README.md` for build/run instructions.
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
